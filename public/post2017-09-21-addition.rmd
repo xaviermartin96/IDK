@@ -1,0 +1,18 @@
+---
+title: ''
+author: ''
+date: '2017-09-21'
+slug: post2017-09-21-addition
+categories:
+  - Mathematics
+tags:
+  - Addition
+  
+  
+  Let's do some addition
+  
+```{r}
+x<-4
+y<-3
+```
+
